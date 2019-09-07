@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahheimaif.joshasch.com/sitemap.xml
